@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Venkata.</h1>
 <img align="center" src="https://i.imgur.com/g8BzUka.png" alt="skills" />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=celentanoad&label=Profile%20views&color=0e75b6&style=flat" alt="venkata" /> </p>
 
 
 <h3 align="center">I am a software developer who enjoys finding solutions to problems and seeking out answers from different perspectives. I am passionate about improving efficiency and motivated by making things work for people. I strive to always learn more through communicating with others and working with a team.</h3>
@@ -9,10 +8,10 @@
 
 - You can contact me at: **vsramakrishnaraju@gmail.com**
 
-- Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/venkata-k-110227a5/" target="blank"><img align="center" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png" alt="venkata" height="30" /> </a>
+- Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/venkata-k-110227a5/" target="blank"><img align="center" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png" alt="vsramakrishnaraju" height="30" /> </a>
 
 <hr>
 
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celentanoad&show_icons=true&locale=en&theme=slateorange&hide=stars" alt="celentanoad" /></div>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsramakrishnaraju&show_icons=true&locale=en&theme=slateorange&hide=stars" alt="vsramakrishnaraju" /></div>
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=celentanoad&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="celentanoad" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsramakrishnaraju&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="vsramakrishnaraju" /></div>
