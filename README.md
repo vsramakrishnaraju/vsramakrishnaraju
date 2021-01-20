@@ -16,3 +16,9 @@
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsramakrishnaraju&show_icons=true&locale=en&theme=slateorange&hide=stars" alt="vsramakrishnaraju" /></div>
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsramakrishnaraju&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="vsramakrishnaraju" /></div>
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vsramakrishnaraju&show_icons=true&theme=gotham" alt="vsramakrishnaraju" />
+
