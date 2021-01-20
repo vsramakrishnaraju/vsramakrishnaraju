@@ -13,7 +13,7 @@
 <hr>
 
 
-📈 My GitHub Stats
+<p align="center"> 📈 My GitHub Stats </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vsramakrishnaraju&show_icons=true&theme=gotham" alt="vsramakrishnaraju" />
 
