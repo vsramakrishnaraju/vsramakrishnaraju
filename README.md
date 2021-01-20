@@ -17,5 +17,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vsramakrishnaraju&show_icons=true&theme=gotham" alt="vsramakrishnaraju" />
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs username=vsramakrishnaraju&show_icons=true&theme=gotham" alt="vsramakrishnaraju" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsramakrishnaraju&layout=compact)](https://github.com/vsramakrishnaraju/github-readme-stats)
