@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi, I'm Venkata.</h1>
 <img align="center" src="https://i.imgur.com/g8BzUka.png" alt="skills" />
 
@@ -20,4 +18,4 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vsramakrishnaraju&show_icons=true&theme=gotham" alt="vsramakrishnaraju" />
 
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsramakrishnaraju&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="vsramakrishnaraju" /></div>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs username=vsramakrishnaraju&show_icons=true&theme=gotham" alt="vsramakrishnaraju" /></p>
