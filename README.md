@@ -1,3 +1,7 @@
+
+[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/vsramakrishnaraju?tab=repositories)
+
+
 <h1 align="center">Hi, I'm Venkata.</h1>
 <img align="center" src="https://i.imgur.com/g8BzUka.png" alt="skills" />
 
@@ -13,12 +17,9 @@
 <hr>
 
 
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsramakrishnaraju&show_icons=true&locale=en&theme=slateorange&hide=stars" alt="vsramakrishnaraju" /></div>
-
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsramakrishnaraju&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="vsramakrishnaraju" /></div>
-
-
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vsramakrishnaraju&show_icons=true&theme=gotham" alt="vsramakrishnaraju" />
 
+
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsramakrishnaraju&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="vsramakrishnaraju" /></div>
