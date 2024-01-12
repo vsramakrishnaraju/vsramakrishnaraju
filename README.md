@@ -8,7 +8,7 @@ Hi, I'm Venkata. 👋🏻. I'm an iOS Engineer  who enjoys finding solutions 
 
 - You can contact me at: **vsramakrishnaraju@gmail.com**
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="venkata-k-110227a5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/venkata-k-110227a5?trk=profile-badge">Venkata K.</a></div>
+- Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/venkata-k-110227a5/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg?size=1200x630f&pad=10,10,10,10&ext=png" alt="vsramakrishnaraju" height="30" /> </a>
 
 <hr>
 
